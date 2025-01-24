@@ -70,7 +70,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width: 440px) {
+@media screen and (max-width: 555px) {
     ul li a{
         width: 80vw;
     }
