@@ -3,7 +3,7 @@ Esse foi o primeiros site que eu fiz mas com algumas alterações, esse site foi
 Foi com esse site que eu comecei a minha jornada e o meu interesse por programação.
 
 ### Veja o site
-Para ver o site abre o [GitHub Pages](schumann7.github.io/links/)
+Para ver o site abre o [GitHub Pages](httos://schumann7.github.io/links/)
 
 # Links
 This was the first website I made, but with some changes, this website was made in 2022 in a marathon of a Youtube channel where the intention was to make a copy of the famous linktree. In 2025 I made some updates to it and uploaded it to GitHub Pages for my own use.<br>
